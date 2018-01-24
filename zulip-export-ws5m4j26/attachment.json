@@ -1,0 +1,30 @@
+{
+    "zerver_attachment":[
+        {
+            "file_name":"17f72lyaew0yojpg.jpg",
+            "path_id":"36\/e3\/ZwKfr_5Z1VezPr-UDA7XZFQn\/17f72lyaew0yojpg.jpg",
+            "owner":1249,
+            "realm":36,
+            "messages":[
+                16244
+            ],
+            "is_realm_public":true,
+            "id":4,
+            "create_time":1516804018.6764090061,
+            "size":74206
+        },
+        {
+            "file_name":"Griffiths - Introduction to quantum mechanics.pdf",
+            "path_id":"36\/36\/YbQncJ5b00kndmP6b8VL9qeP\/Griffiths-Introduction-to-quantum-mechanics.pdf",
+            "owner":1249,
+            "realm":36,
+            "messages":[
+                16246
+            ],
+            "is_realm_public":false,
+            "id":5,
+            "create_time":1516804077.3505840302,
+            "size":13762047
+        }
+    ]
+}

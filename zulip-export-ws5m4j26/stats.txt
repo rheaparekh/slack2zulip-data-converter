@@ -1,0 +1,31 @@
+attachment.json
+    2 zerver_attachment
+
+messages-000001.json
+   36 zerver_message
+  109 zerver_usermessage
+
+realm.json
+    5 zerver_client
+    0 zerver_defaultstream
+    0 zerver_huddle
+    1 zerver_realm
+    1 zerver_realmdomain
+    1 zerver_realmemoji
+    0 zerver_realmfilter
+   24 zerver_recipient
+    6 zerver_stream
+   38 zerver_subscription
+   13 zerver_useractivity
+    1 zerver_useractivityinterval
+    1 zerver_userpresence
+   18 zerver_userprofile
+    0 zerver_userprofile_crossrealm
+    0 zerver_userprofile_mirrordummy
+
+/tmp/zulip-export-ws5m4j26/avatars/records.json
+    2 records
+
+/tmp/zulip-export-ws5m4j26/uploads/records.json
+    2 records
+

@@ -1,0 +1,22 @@
+[
+    {
+        "path":"36\/f3533b6eb325ecd0533ef37abdd59cd5f4adc705.original",
+        "realm_id":36,
+        "content_type":null,
+        "user_profile_id":1249,
+        "last_modified":1516804039.0,
+        "user_profile_email":"iago@zulip.com",
+        "s3_path":"36\/f3533b6eb325ecd0533ef37abdd59cd5f4adc705.original",
+        "size":358128
+    },
+    {
+        "path":"36\/f3533b6eb325ecd0533ef37abdd59cd5f4adc705.png",
+        "realm_id":36,
+        "content_type":null,
+        "user_profile_id":1249,
+        "last_modified":1516804039.0,
+        "user_profile_email":"iago@zulip.com",
+        "s3_path":"36\/f3533b6eb325ecd0533ef37abdd59cd5f4adc705.png",
+        "size":9885
+    }
+]

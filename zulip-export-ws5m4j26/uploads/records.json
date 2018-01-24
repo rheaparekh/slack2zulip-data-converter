@@ -1,0 +1,22 @@
+[
+    {
+        "path":"36\/e3\/ZwKfr_5Z1VezPr-UDA7XZFQn\/17f72lyaew0yojpg.jpg",
+        "realm_id":36,
+        "content_type":null,
+        "user_profile_id":1249,
+        "last_modified":1516804018.0,
+        "user_profile_email":"iago@zulip.com",
+        "s3_path":"36\/e3\/ZwKfr_5Z1VezPr-UDA7XZFQn\/17f72lyaew0yojpg.jpg",
+        "size":74206
+    },
+    {
+        "path":"36\/36\/YbQncJ5b00kndmP6b8VL9qeP\/Griffiths-Introduction-to-quantum-mechanics.pdf",
+        "realm_id":36,
+        "content_type":null,
+        "user_profile_id":1249,
+        "last_modified":1516804077.0,
+        "user_profile_email":"iago@zulip.com",
+        "s3_path":"36\/36\/YbQncJ5b00kndmP6b8VL9qeP\/Griffiths-Introduction-to-quantum-mechanics.pdf",
+        "size":13762047
+    }
+]
