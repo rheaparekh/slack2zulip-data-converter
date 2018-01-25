@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "thread 1?",
+        "thread_ts": "1516677693.000181",
+        "parent_user_id": "U6006P1CN",
+        "ts": "1516815955.000893"
+    },
+    {
+        "text": "msg sent to general as well",
+        "thread_ts": "1516677693.000181",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U6006P1CN",
+        "root": {
+            "type": "message",
+            "user": "U6006P1CN",
+            "text": "_*rabbitduck*_",
+            "thread_ts": "1516677693.000181",
+            "reply_count": 2,
+            "replies": [
+                {
+                    "user": "U6006P1CN",
+                    "ts": "1516815955.000893"
+                },
+                {
+                    "user": "U6006P1CN",
+                    "ts": "1516816486.000470"
+                }
+            ],
+            "unread_count": 2,
+            "ts": "1516677693.000181"
+        },
+        "ts": "1516816486.000470"
+    }
+]

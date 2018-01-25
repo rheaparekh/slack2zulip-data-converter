@@ -1,0 +1,29 @@
+[
+    {
+        "user_id": "U8X25EBAB",
+        "user_name": "rishiweb_0",
+        "date": "1516457507",
+        "change_type": "updated",
+        "service_id": "301365159168",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U8X25EBAB",
+        "user_name": "rishiweb_0",
+        "date": "1516457503",
+        "change_type": "added",
+        "service_id": "301365159168",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1498401043",
+        "change_type": "added",
+        "service_id": "202634974129",
+        "service_type": "Google Drive",
+        "scope": "files:write:user"
+    }
+]
