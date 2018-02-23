@@ -1,0 +1,358 @@
+[
+    {
+        "user": "U8VAHEVUY",
+        "text": "<@U8VAHEVUY> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1516454398.000074",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8VAHEVUY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U8VAHEVUY",
+        "text": "Hi everybody.",
+        "ts": "1516454482.000120"
+    },
+    {
+        "type": "message",
+        "user": "U8VAHEVUY",
+        "text": ":slightly_smiling_face:",
+        "ts": "1516454493.000067"
+    },
+    {
+        "user": "U8W3QFGQ5",
+        "text": "<@U8W3QFGQ5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1516454650.000080"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "Hey everyone!",
+        "ts": "1516454699.000049"
+    },
+    {
+        "type": "message",
+        "user": "U8VAHEVUY",
+        "text": "Hi Rhea!",
+        "ts": "1516454850.000058"
+    },
+    {
+        "type": "message",
+        "user": "U8VAHEVUY",
+        "text": "<@U8W3QFGQ5> this is a test mention",
+        "ts": "1516456896.000008"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U8VAHEVUY> uploaded a file: <https:\/\/plan8team.slack.com\/files\/U8VAHEVUY\/F8VDNT9FB\/img_0677.jpg|IMG_0677.JPG> and commented: This is Sammy.",
+        "file": {
+            "id": "F8VDNT9FB",
+            "created": 1516456927,
+            "timestamp": 1516456927,
+            "name": "IMG_0677.JPG",
+            "title": "IMG_0677.JPG",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U8VAHEVUY",
+            "editable": false,
+            "size": 585469,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F8VDNT9FB\/img_0677.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F8VDNT9FB\/download\/img_0677.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_64.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_80.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_360.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_480.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_160.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_720.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_800.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_800_w": 800,
+            "thumb_800_h": 600,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_960.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_1024.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 1632,
+            "original_h": 1224,
+            "permalink": "https:\/\/plan8team.slack.com\/files\/U8VAHEVUY\/F8VDNT9FB\/img_0677.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T5YFFM2QY-F8VDNT9FB-c9f322ad2a",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc8VDNTG81",
+                "created": 1516456927,
+                "timestamp": 1516456927,
+                "user": "U8VAHEVUY",
+                "is_intro": true,
+                "comment": "This is Sammy."
+            },
+            "pinned_to": [
+                "C5Z73A7RA"
+            ]
+        },
+        "user": "U8VAHEVUY",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "showell30",
+        "bot_id": null,
+        "ts": "1516456930.000018"
+    },
+    {
+        "user": "U8X25EBAB",
+        "text": "<@U8X25EBAB> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1516457416.000032"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "aoenaoeuta",
+        "ts": "1516457468.000016",
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U8X25EBAB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": ":grinning:",
+        "ts": "1516457485.000071"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "user": "U6006P1CN",
+        "item_type": "F",
+        "text": "<@U6006P1CN> pinned <@U8VAHEVUY>’s Image <https:\/\/plan8team.slack.com\/files\/U8VAHEVUY\/F8VDNT9FB\/img_0677.jpg|IMG_0677.JPG> to this channel.",
+        "item": {
+            "id": "F8VDNT9FB",
+            "created": 1516456927,
+            "timestamp": 1516456927,
+            "name": "IMG_0677.JPG",
+            "title": "IMG_0677.JPG",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U8VAHEVUY",
+            "editable": false,
+            "size": 585469,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F8VDNT9FB\/img_0677.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F8VDNT9FB\/download\/img_0677.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_64.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_80.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_360.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_480.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_160.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_720.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_800.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_800_w": 800,
+            "thumb_800_h": 600,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_960.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T5YFFM2QY-F8VDNT9FB-2dfea0ed17\/img_0677_1024.jpg?t=xoxe-202525716848-319526056897-320926964566-8e3fea514ad1b3383d83f334801eb642",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 1,
+            "original_w": 1632,
+            "original_h": 1224,
+            "permalink": "https:\/\/plan8team.slack.com\/files\/U8VAHEVUY\/F8VDNT9FB\/img_0677.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T5YFFM2QY-F8VDNT9FB-c9f322ad2a",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc8VDNTG81",
+                "created": 1516456927,
+                "timestamp": 1516456927,
+                "user": "U8VAHEVUY",
+                "is_intro": true,
+                "comment": "This is Sammy."
+            },
+            "pinned_to": [
+                "C5Z73A7RA"
+            ]
+        },
+        "ts": "1516457501.000068"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "",
+        "bot_id": "B8VAR4P4Y",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/studiosoriginals-3o6ZtgInuwmtc07sxa",
+                "image_url": "https:\/\/media1.giphy.com\/media\/3o6ZtgInuwmtc07sxa\/giphy-tumblr.gif",
+                "image_width": 480,
+                "image_height": 320,
+                "image_bytes": 114320,
+                "is_animated": true,
+                "title": "hi",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/studiosoriginals\/|GIPHY Studios Originals>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/studiosoriginals-3o6ZtgInuwmtc07sxa"
+            }
+        ],
+        "ts": "1516457523.000056"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "some things to test:",
+        "ts": "1516457541.000080"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "* Adding custom emoji",
+        "ts": "1516457559.000051"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "* two users with the same name",
+        "ts": "1516457564.000118"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "* for custom emoji, both in the message and as a reaction",
+        "ts": "1516457635.000068"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "(For all of these, it's fine to do the simplest possible thing to resolve it; the main goal is just for it not to crash :))",
+        "ts": "1516457669.000051"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "also I think we can ignore private streams, PMs, and Group PMs for a V1, since you need to be on the $15 plan to export them",
+        "ts": "1516457755.000082"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "we can also ignore message edit history",
+        "ts": "1516457767.000045"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "When the conversion is lossy, e.g. no message edit history, it would be informative to tell users that such is the case",
+        "ts": "1516457836.000063"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "I think as long as we set expectations in a \/help doc it should be fine",
+        "ts": "1516458861.000003"
+    },
+    {
+        "type": "message",
+        "user": "U8X25EBAB",
+        "text": "does slack have bots? e.g. incoming webhooks?",
+        "ts": "1516462421.000086"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "There is <https:\/\/api.slack.com\/incoming-webhooks>",
+        "attachments": [
+            {
+                "service_name": "api.slack.com",
+                "title": "Incoming Webhooks",
+                "title_link": "https:\/\/api.slack.com\/incoming-webhooks",
+                "text": "Learn how to build bot users, send notifications, and interact with workspaces using our APIs.",
+                "fallback": "api.slack.com: Incoming Webhooks",
+                "thumb_url": "https:\/\/a.slack-edge.com\/f30f\/img\/services\/api_200.png",
+                "from_url": "https:\/\/api.slack.com\/incoming-webhooks",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/a.slack-edge.com\/436da\/marketing\/img\/meta\/ios-152.png",
+                "id": 1
+            }
+        ],
+        "ts": "1516465304.000038"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "Right now, the script won't support any attachments and uploads along with the avatars.",
+        "ts": "1516468005.000094"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "<@U6006P1CN>     testing     <@U8VAHEVUY> <@USLACKBOT>: multiple mentioning",
+        "edited": {
+            "user": "U8W3QFGQ5",
+            "ts": "1516468486.000000"
+        },
+        "ts": "1516468466.000125"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "<!everyone>",
+        "ts": "1516468553.000025"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "<!everyone>",
+        "ts": "1516468553.000066"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "\/poll \"test poll\" \"Yes\" \"No\"",
+        "ts": "1519415028.000432"
+    },
+    {
+        "text": "",
+        "bot_id": "B9F3T9GR5",
+        "attachments": [
+            {
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "title": "test poll",
+                "id": 1,
+                "color": "6ecadc",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": ":one: Yes    `1`\n<@U8W3QFGQ5>\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: No\n\n\n",
+                        "short": false
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            },
+            {
+                "callback_id": "546c917b-5edf-4cf9-ad8f-ebeefbcdb9b3",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "id": 2,
+                "color": "6ecadc",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "vote",
+                        "text": ":one:",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "vote",
+                        "text": ":two:",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "delete-v2",
+                        "text": "Delete Poll",
+                        "type": "button",
+                        "value": "",
+                        "style": "danger",
+                        "confirm": {
+                            "text": "Are you sure you want to delete the Poll?",
+                            "title": "Delete Poll?",
+                            "ok_text": "Yes",
+                            "dismiss_text": "No"
+                        }
+                    }
+                ]
+            },
+            {
+                "callback_id": "546c917b-5edf-4cf9-ad8f-ebeefbcdb9b3",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "footer": "Simple Poll        <https:\/\/simplepoll.rocks\/dashboard\/plan8team\/settings\/|Edit Settings>",
+                "id": 3,
+                "footer_icon": "https:\/\/simplepoll.rocks\/static\/main\/favicon.png",
+                "color": "6ecadc"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1519415028.000628"
+    }
+]

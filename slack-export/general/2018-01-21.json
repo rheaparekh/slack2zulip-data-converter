@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<ftp:\/\/speedtest.tele2.net\/>",
+        "ts": "1516524675.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+        "ts": "1516524774.000024"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<mailto:foo@spam.com|foo@spam.com>",
+        "ts": "1516524784.000012"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<mailto:foo@spam.com>",
+        "ts": "1516524790.000034"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "file:\/\/\/",
+        "ts": "1516525268.000001"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "file:\/\/\/bin\/sh",
+        "ts": "1516525294.000013"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<skype:alpha@bets.com>",
+        "ts": "1516525381.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "ipfs:QmYWnD37rP1TK8EctGJjw9P9eZNnNKjFcB4qotTiQKNhUN",
+        "ts": "1516526038.000032"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "ftp:<http:\/\/aa.com|aa.com>",
+        "ts": "1516526202.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<ftp:\/\/aa.com>",
+        "ts": "1516526210.000064"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<ipfs:\/\/QmYWnD37rP1TK8EctGJjw9P9eZNnNKjFcB4qotTiQKNhUN>",
+        "ts": "1516526219.000055"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "<aaa:\/\/dfkafkafadfjsakf>",
+        "ts": "1516526228.000016"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "Huh Slack linkifies all of &lt;any char&gt;:\/\/&lt;any char&gt;",
+        "ts": "1516526258.000062"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "We wouldn't want to map it this way though, right?",
+        "ts": "1516526350.000031"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "It's cheap to parse, tho",
+        "ts": "1516526374.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "But compiling a manual laundry list of protocols is cheap too, to be safe",
+        "ts": "1516526395.000050"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "random:foo@spam.com",
+        "ts": "1516526412.000011"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "http https ftp and mailto, skype",
+        "ts": "1516526460.000060"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "magnet:jkjr1k4jk1j5k",
+        "ts": "1516533357.000050"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "I think it is safe to aggressively match &lt;chars&gt;:\/\/&lt;chars&gt;. Zulip already whitelists protocols that are to be turned to links <https:\/\/github.com\/zulip\/zulip\/blob\/953478a18908d77e9901e24bebe9fbe99c968774\/zerver\/lib\/bugdown\/__init__.py#L1131>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "zulip\/zulip",
+                "title_link": "https:\/\/github.com\/zulip\/zulip\/blob\/953478a18908d77e9901e24bebe9fbe99c968774\/zerver\/lib\/bugdown\/__init__.py#L1131",
+                "text": "zulip - Zulip server - powerful open source team chat",
+                "fallback": "GitHub: zulip\/zulip",
+                "from_url": "https:\/\/github.com\/zulip\/zulip\/blob\/953478a18908d77e9901e24bebe9fbe99c968774\/zerver\/lib\/bugdown\/__init__.py#L1131",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/4921959?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ],
+        "ts": "1516535197.000022"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "javascript:aa",
+        "ts": "1516536939.000043"
+    }
+]

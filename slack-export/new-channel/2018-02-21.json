@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U8W3QFGQ5",
+        "text": "<@U8W3QFGQ5> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1519237647.000203"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "Test new channel!",
+        "ts": "1519237658.000171"
+    }
+]

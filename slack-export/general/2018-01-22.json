@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "*_duckrabbit_*",
+        "ts": "1516677684.000144"
+    },
+    {
+        "type": "message",
+        "user": "U6006P1CN",
+        "text": "_*rabbitduck*_",
+        "thread_ts": "1516677693.000181",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U6006P1CN",
+                "ts": "1516815955.000893"
+            },
+            {
+                "user": "U6006P1CN",
+                "ts": "1516816486.000470"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1516677693.000181"
+    }
+]
