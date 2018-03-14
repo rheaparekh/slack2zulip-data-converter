@@ -1,0 +1,173 @@
+[
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U8W3QFGQ5> shared a file: <https:\/\/plan8team.slack.com\/files\/U8W3QFGQ5\/F9P651CN4\/test|test>",
+        "file": {
+            "id": "F9P651CN4",
+            "created": 1521041805,
+            "timestamp": 1521041859,
+            "name": "test",
+            "title": "test",
+            "mimetype": "text\/plain",
+            "filetype": "space",
+            "pretty_type": "Post",
+            "user": "U8W3QFGQ5",
+            "editable": true,
+            "size": 82,
+            "mode": "space",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F9P651CN4\/test?t=xoxe-202525716848-329770956979-329214682608-6b876d0856458d122fd49c97dc7bae8f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F9P651CN4\/download\/test?t=xoxe-202525716848-329770956979-329214682608-6b876d0856458d122fd49c97dc7bae8f",
+            "permalink": "https:\/\/plan8team.slack.com\/files\/U8W3QFGQ5\/F9P651CN4\/test",
+            "permalink_public": "https:\/\/slack-files.com\/T5YFFM2QY-F9P651CN4-c273214e81",
+            "preview": "<document><p>test post<\/p><\/document>",
+            "updated": 1521041859,
+            "editor": "U8W3QFGQ5",
+            "last_editor": "U8W3QFGQ5",
+            "state": "locked",
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U8W3QFGQ5",
+        "upload": false,
+        "display_as_bot": false,
+        "username": "rheaparekh12",
+        "bot_id": null,
+        "ts": "1521041828.000527"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U8W3QFGQ5> uploaded a file: <https:\/\/plan8team.slack.com\/files\/U8W3QFGQ5\/F9P96MHJ5\/-.txt|Untitled>",
+        "file": {
+            "id": "F9P96MHJ5",
+            "created": 1521041956,
+            "timestamp": 1521041956,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U8W3QFGQ5",
+            "editable": true,
+            "size": 10,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F9P96MHJ5\/-.txt?t=xoxe-202525716848-329770956979-329214682608-6b876d0856458d122fd49c97dc7bae8f",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T5YFFM2QY-F9P96MHJ5\/download\/-.txt?t=xoxe-202525716848-329770956979-329214682608-6b876d0856458d122fd49c97dc7bae8f",
+            "permalink": "https:\/\/plan8team.slack.com\/files\/U8W3QFGQ5\/F9P96MHJ5\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T5YFFM2QY-F9P96MHJ5-19840811ae",
+            "edit_link": "https:\/\/plan8team.slack.com\/files\/U8W3QFGQ5\/F9P96MHJ5\/-.txt\/edit",
+            "preview": "test code ",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>test code <\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 1,
+            "lines_more": 0,
+            "preview_is_truncated": false,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U8W3QFGQ5",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "rheaparekh12",
+        "bot_id": null,
+        "ts": "1521041956.000782"
+    },
+    {
+        "type": "message",
+        "user": "U8W3QFGQ5",
+        "text": "\/poll \"Is this a poll?\" \"Yes\" \"No\"",
+        "ts": "1521041976.000398"
+    },
+    {
+        "text": "",
+        "bot_id": "B9F3T9GR5",
+        "attachments": [
+            {
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "title": "Is this a poll?",
+                "id": 1,
+                "color": "6ecadc",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": ":one: Yes\n\n\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: No\n\n\n",
+                        "short": false
+                    }
+                ],
+                "mrkdwn_in": [
+                    "fields"
+                ]
+            },
+            {
+                "callback_id": "d6f5af8a-ba69-42fe-ac13-c051212c3aff",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "id": 2,
+                "color": "6ecadc",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "vote",
+                        "text": ":one:",
+                        "type": "button",
+                        "value": "1",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "vote",
+                        "text": ":two:",
+                        "type": "button",
+                        "value": "2",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "delete-v2",
+                        "text": "Delete Poll",
+                        "type": "button",
+                        "value": "",
+                        "style": "danger",
+                        "confirm": {
+                            "text": "Are you sure you want to delete the Poll?",
+                            "title": "Delete Poll?",
+                            "ok_text": "Yes",
+                            "dismiss_text": "No"
+                        }
+                    }
+                ]
+            },
+            {
+                "callback_id": "d6f5af8a-ba69-42fe-ac13-c051212c3aff",
+                "fallback": "Open Slack to cast your vote in this Simple Poll",
+                "footer": "Simple Poll        <https:\/\/simplepoll.rocks\/dashboard\/plan8team\/settings\/|Edit Settings>",
+                "id": 3,
+                "footer_icon": "https:\/\/simplepoll.rocks\/static\/main\/favicon.png",
+                "color": "6ecadc"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1521041976.000598"
+    }
+]
